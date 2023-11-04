@@ -1,3 +1,3 @@
 # personal-web-page
 Online link is 
-abdullahrashid786.guthub.io/personal-web-page/
+https://abdullahrashid786.github.io/personal-web-page/
